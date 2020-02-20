@@ -191,6 +191,7 @@ private:
     }
   }
 
+
   int
   itkToSCIFIOPixelType(ImageIOBase::IOComponentEnum cmp)
   {
